@@ -226,7 +226,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 <br></br>
 
 #### Editing Customers
-1. Click "Edit" next to the customer you want to modify
+- Click "Edit" next to the customer you want to modify
 2. Update the necessary information
 3. Click "Save" to apply changes
 
