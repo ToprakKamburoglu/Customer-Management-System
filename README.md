@@ -275,6 +275,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Personal Data](images/personaldata14.png)
 
+<br></br>
+
 #### Personal Json 
 - {"Id":"dc4ced02-27fe-4ba6-8f05-d09be5530dbd",
 - "UserName":"testuser@gmail.com",
@@ -284,6 +286,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 - "PhoneNumberConfirmed":"False",
 - "TwoFactorEnabled":"False",
 - "Authenticator Key":"FR3KJQ6N64CYZVSLZVCTYUJW6WDV6AV7"}
+
+<br></br>
 
 ![Delete User](images/deleteuser16.png)
 
