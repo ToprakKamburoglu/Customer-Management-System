@@ -2,6 +2,20 @@
 
 ![Home Page](images/home1.png)
 
+## 📋 Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Project Structure](#project-structure)
+- [Database Schema](#database-schema)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [API Endpoints](#api-endpoints)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## 🚀 About
 
 The **Customer Management System** is a comprehensive web platform that enables business owners to efficiently manage their customer information through full CRUD (Create, Read, Update, Delete) operations. Built with ASP.NET Core MVC and Entity Framework, this application provides a robust and scalable solution for customer data management.
@@ -184,18 +198,23 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
    - Navigate to `https://localhost:7xxx` (port may vary)
    - You'll see the home page
 
-![Home Page](images/home1.png)
+![Home Page](images/1.png)
 
-2. **Register a new account**
+2. **Access the Privacy page**
+   - Learn about the privacy policy and data handling
+
+![Privacy Page](images/2.png)
+
+3. **Register a new account**
    - Click on "Register" in the navigation
    - Fill in your details and create an account
 
-![Register Page](images/register8.png)
+![Register Page](images/8.png)
 
-3. **Login to your account**
+4. **Login to your account**
    - Use your credentials to log in
 
-![Login Page](images/login9.png)
+![Login Page](images/9.png)
 
 ### Customer Management
 
@@ -203,57 +222,62 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 - Navigate to the "Customers" section
 - Browse through the customer list
 
-![Customers List](images/customers3.png)
+![Customers List](images/3.png)
 
 #### Adding New Customers
 1. Click "Add New Customer"
 2. Fill in all required customer information
 3. Click "Create" to save
 
-![Add New Customer](images/addnewcustomer4.png)
-
-#### Viewing Customer Details
-- Click "Details" next to any customer to view complete information
-
-![Customer Details](images/details6.png)
+![Add New Customer](images/4.png)
 
 #### Editing Customers
 1. Click "Edit" next to the customer you want to modify
 2. Update the necessary information
 3. Click "Save" to apply changes
 
-![Customer Edit](images/customeredit5.png)
+![Customer Edit](images/5.png)
+
+#### Viewing Customer Details
+- Click "Details" next to any customer to view complete information
+
+![Customer Details](images/6.png)
 
 #### Deleting Customers
 1. Click "Delete" next to the customer
 2. Confirm the deletion in the confirmation dialog
 
-![Delete Customer](images/delete7.png)
+![Delete Customer](images/7.png)
 
 ### User Profile Management
 
 #### Manage Profile
 - Access your profile settings from the user menu
 
-![Profile Management](images/profile10.png)
+![Profile Management](images/10.png)
 
 #### Email Management
 - Update your email address and confirmation status
 
-![Email Management](images/email11.png)
+![Email Management](images/11.png)
 
 #### Password Reset
 - Reset your password if needed
 
-![Password Reset](images/passwordreset12.png)
+![Password Reset](images/12.png)
+
+#### Authentication Settings
+- Manage your authentication and security settings
+
+![Authentication](images/13.png)
 
 #### Personal Data Management
 - Download your personal data as JSON
 - Delete your account if required (GDPR compliance)
 
-![Personal Data](images/personaldata14.png)
-![Download JSON](images/downloadjson15.png)
-![Delete User](images/deleteuser16.png)
+![Personal Data](images/14.png)
+![Download JSON](images/15.png)
+![Delete User](images/16.png)
 
 ## 🔌 API Endpoints
 
