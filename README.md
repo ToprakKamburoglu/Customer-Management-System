@@ -1,7 +1,3 @@
-# Customer Management System
-
-![Home Page](images/home1.png)
-
 ## 🚀 About
 
 The **Customer Management System** is a comprehensive web platform that enables business owners to efficiently manage their customer information through full CRUD (Create, Read, Update, Delete) operations. Built with ASP.NET Core MVC and Entity Framework, this application provides a robust and scalable solution for customer data management.
