@@ -199,7 +199,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 <br></br>
 
-### Customer Management
+## Customer Management
 
 #### Viewing Customers
 - Navigate to the "Customers" section
@@ -242,7 +242,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 <br></br>
 
-### User Profile Management
+## User Profile Management
 
 #### Manage Profile
 - Access your profile settings from the user menu
