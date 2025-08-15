@@ -277,15 +277,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 <br></br>
 
-#### Personal Json 
-- {"Id":"dc4ced02-27fe-4ba6-8f05-d09be5530dbd",
-- "UserName":"testuser@gmail.com",
-- "Email":"testuser@gmail.com",
-- "EmailConfirmed":"True",
-- "PhoneNumber":"null",
-- "PhoneNumberConfirmed":"False",
-- "TwoFactorEnabled":"False",
-- "Authenticator Key":"FR3KJQ6N64CYZVSLZVCTYUJW6WDV6AV7"}
+Personal JSON Data
+FieldValueIddc4ced02-27fe-4ba6-8f05-d09be5530dbdUserNametestuser@gmail.comEmailtestuser@gmail.comEmailConfirmedTruePhoneNumbernullPhoneNumberConfirmedFalseTwoFactorEnabledFalseAuthenticator KeyFR3KJQ6N64CYZVSLZVCTYUJW6WDV6AV7
 
 <br></br>
 
