@@ -266,10 +266,15 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 <br>
 
 #### Personal Data Management
-- Download your personal data as JSON
 - Delete your account if required (GDPR compliance)
+- Download your personal data as JSON
 
 ![Personal Data](images/personaldata14.png)
+
+<br>
+
+#### Delete Account
+![Delete User](images/deleteuser16.png)
 
 <br>
 
@@ -285,11 +290,6 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 | **PhoneNumberConfirmed** | False |
 | **TwoFactorEnabled** | False |
 | **Authenticator Key** | FR3KJQ6N64CYZVSLZVCTYUJW6WDV6AV7 |
-
-<br>
-
-#### Delete Account
-![Delete User](images/deleteuser16.png)
 
 ## 🔌 API Endpoints
 
