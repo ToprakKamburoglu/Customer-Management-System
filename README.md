@@ -194,10 +194,14 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Register Page](images/register8.png)
 
+<br></br>
+
 3. **Login to your account**
    - Use your credentials to log in
 
 ![Login Page](images/login9.png)
+
+<br></br>
 
 ### Customer Management
 
@@ -207,6 +211,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Customers List](images/customers3.png)
 
+<br></br>
+
 #### Adding New Customers
 1. Click "Add New Customer"
 2. Fill in all required customer information
@@ -214,10 +220,14 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Add New Customer](images/addnewcustomer4.png)
 
+<br></br>
+
 #### Viewing Customer Details
 - Click "Details" next to any customer to view complete information
 
 ![Customer Details](images/details6.png)
+
+<br></br>
 
 #### Editing Customers
 1. Click "Edit" next to the customer you want to modify
@@ -226,11 +236,15 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Customer Edit](images/customeredit5.png)
 
+<br></br>
+
 #### Deleting Customers
 1. Click "Delete" next to the customer
 2. Confirm the deletion in the confirmation dialog
 
 ![Delete Customer](images/delete7.png)
+
+<br></br>
 
 ### User Profile Management
 
@@ -239,15 +253,21 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Profile Management](images/profile10.png)
 
+<br></br>
+
 #### Email Management
 - Update your email address and confirmation status
 
 ![Email Management](images/email11.png)
 
+<br></br>
+
 #### Password Reset
 - Reset your password if needed
 
 ![Password Reset](images/passwordreset12.png)
+
+<br></br>
 
 #### Personal Data Management
 - Download your personal data as JSON
