@@ -274,7 +274,17 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 - Delete your account if required (GDPR compliance)
 
 ![Personal Data](images/personaldata14.png)
-![Download JSON](images/downloadjson15.png)
+
+#### Personal Json 
+{"Id":"dc4ced02-27fe-4ba6-8f05-d09be5530dbd",
+"UserName":"testuser@gmail.com",
+"Email":"testuser@gmail.com",
+"EmailConfirmed":"True",
+"PhoneNumber":"null",
+"PhoneNumberConfirmed":"False",
+"TwoFactorEnabled":"False",
+"Authenticator Key":"FR3KJQ6N64CYZVSLZVCTYUJW6WDV6AV7"}
+
 ![Delete User](images/deleteuser16.png)
 
 ## 🔌 API Endpoints
