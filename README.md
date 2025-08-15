@@ -315,14 +315,14 @@ The application includes:
 
 ## 🔄 Future Enhancements
 
-- [ ] Advanced search and filtering capabilities
-- [ ] Customer import/export functionality (CSV, Excel)
-- [ ] Customer categorization and tagging
-- [ ] Customer interaction history tracking
-- [ ] Dashboard with analytics and reports
-- [ ] API endpoints for mobile applications
-- [ ] Multi-language support
-- [ ] Advanced user roles and permissions
+- Advanced search and filtering capabilities
+- Customer import/export functionality (CSV, Excel)
+- Customer categorization and tagging
+- Customer interaction history tracking
+- Dashboard with analytics and reports
+- API endpoints for mobile applications
+- Multi-language support
+- Advanced user roles and permissions
 
 ## 🤝 Contributing
 
@@ -341,13 +341,6 @@ The application includes:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For support and questions:
-- Create an issue in the GitHub repository
-- Email: [your-email@example.com]
-- Documentation: [Project Wiki](https://github.com/yourusername/CustomerManagementSystem/wiki)
 
 ## 🙏 Acknowledgments
 
