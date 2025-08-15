@@ -11,11 +11,11 @@ The **Customer Management System** is a comprehensive web platform that enables 
 ## ✨ Features
 
 ### Customer Management
-- ✅ **Create new customers** with complete information
-- ✅ **View customer details** in organized layouts
-- ✅ **Edit existing customer** information
-- ✅ **Delete customers** with confirmation prompts
-- ✅ **Search and filter** customer records
+- **Create new customers** with complete information
+- **View customer details** in organized layouts
+- **Edit existing customer** information
+- **Delete customers** with confirmation prompts
+- **Search and filter** customer records
 
 ### User Authentication & Authorization
 - 🔐 **User registration** and login system
