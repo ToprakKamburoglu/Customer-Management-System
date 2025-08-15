@@ -186,6 +186,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Home Page](images/home1.png)
 
+<br></br>
+
 2. **Register a new account**
    - Click on "Register" in the navigation
    - Fill in your details and create an account
