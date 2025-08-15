@@ -291,6 +291,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 | **TwoFactorEnabled** | False |
 | **Authenticator Key** | FR3KJQ6N64CYZVSLZVCTYUJW6WDV6AV7 |
 
+<br>
+
 ## 🔌 API Endpoints
 
 ### Customer Controller
