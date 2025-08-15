@@ -273,7 +273,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 <br></br>
 
-#### Personal JSON Data
+#### Downloaded Personal JSON Data
 
 | Field | Value |
 |-------|-------|
