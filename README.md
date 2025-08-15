@@ -359,4 +359,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ using ASP.NET Core MVC**
+For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
