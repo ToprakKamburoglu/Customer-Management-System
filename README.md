@@ -190,14 +190,14 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Register Page](images/register8.png)
 
-
+<br>
 
 3. **Login to your account**
    - Use your credentials to log in
 
 ![Login Page](images/login9.png)
 
-<br></br>
+<br>
 
 ## 📇 Customer Management
 
@@ -207,7 +207,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Customers List](images/customers3.png)
 
-<br></br>
+<br>
 
 #### Adding New Customers
 1. Click "Add New Customer"
@@ -216,14 +216,14 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Add New Customer](images/addnewcustomer4.png)
 
-<br></br>
+<br>
 
 #### Viewing Customer Details
 - Click "Details" next to any customer to view complete information
 
 ![Customer Details](images/details6.png)
 
-<br></br>
+<br>
 
 #### Editing Customers
 1. Click "Edit" next to the customer you want to modify
@@ -232,7 +232,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Customer Edit](images/customeredit5.png)
 
-<br></br>
+<br>
 
 #### Deleting Customers
 1. Click "Delete" next to the customer
@@ -240,7 +240,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Delete Customer](images/delete7.png)
 
-<br></br>
+<br>
 
 ## 🪪 User Profile Management
 
@@ -249,21 +249,21 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Profile Management](images/profile10.png)
 
-<br></br>
+<br>
 
 #### Email Management
 - Update your email address and confirmation status
 
 ![Email Management](images/email11.png)
 
-<br></br>
+<br>
 
 #### Password Reset
 - Reset your password if needed
 
 ![Password Reset](images/passwordreset12.png)
 
-<br></br>
+<br>
 
 #### Personal Data Management
 - Download your personal data as JSON
@@ -271,7 +271,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Personal Data](images/personaldata14.png)
 
-<br></br>
+<br>
 
 #### Downloaded Personal JSON Data
 
@@ -286,7 +286,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 | **TwoFactorEnabled** | False |
 | **Authenticator Key** | FR3KJQ6N64CYZVSLZVCTYUJW6WDV6AV7 |
 
-<br></br>
+<br>
 
 #### Delete Account
 ![Delete User](images/deleteuser16.png)
