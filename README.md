@@ -290,6 +290,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 | **TwoFactorEnabled** | False |
 | **Authenticator Key** | FR3KJQ6N64CYZVSLZVCTYUJW6WDV6AV7 |
 
+<br></br>
 ![Delete User](images/deleteuser16.png)
 
 ## 🔌 API Endpoints
