@@ -190,7 +190,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 ![Register Page](images/register8.png)
 
-<br></br>
+
 
 3. **Login to your account**
    - Use your credentials to log in
